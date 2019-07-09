@@ -1,3 +1,4 @@
+import React, {Component} from 'react';
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -22,5 +23,7 @@ function App() {
     </div>
   );
 }
+
+render()
 
 export default App;
